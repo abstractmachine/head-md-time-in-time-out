@@ -1,0 +1,43 @@
+# sticker/no sticker
+- Gamerish Black laptop
+	- 2 stickers
+		- Nvidia
+		- Intel Inside
+- 2 Notebooks
+	- no sticker
+- Cupertino Grey
+	- METAA Sticker
+- Notebook
+	- no sticker
+- Cupertino Grey (closed)
+	- no sticker
+- Tablet
+	- no sticker
+- Notepad
+	- no sticker
+- Cupertino Grey
+	- sticker
+		- Character
+- Black Laptop (closed)
+	- sticker
+- Notepad
+	- sticker
+- Cupertino Light Grey
+	- sticker
+		- Speech Bubble
+- Black Skinned Cupertino Grey
+	- no sticker
+- Cupertino Light Grey
+	- no sticker
+- Taiwanese Logo Shiny
+	- no sticker
+- Notepad
+	- are tatoos stickers?
+- Dark Grey Laptop (closed)
+	- no sticker
+- Cupertino Light Grey (closed)
+	- no sticker
+- Tablet
+	- no sticker
+- Cupertino Light Grey
+	- no sticker
