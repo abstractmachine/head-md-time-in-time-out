@@ -4,7 +4,7 @@ This is the starting template for the Time In Time Out project of the Media Desi
 # All The Projects
 There are several students exploring this subject :
 
-- [Maria Gulkova](https://github.com/MariiaGulkova/head-md-time-in-time-out)
+- [Mariia Gulkova](https://github.com/MariiaGulkova/head-md-time-in-time-out)
 - [Amaury Hamon](https://github.com/AmauryHamon/head-md-time-in-time-out)
 - [Nathan Zweifel](https://github.com/zweifelna/head-md-time-in-time-out)
 - [Léonie Courbat](https://github.com/Limonello/head-md-time-in-time-out)
