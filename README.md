@@ -1,7 +1,10 @@
 # Time In Time Out
 This is the starting template for the Time In Time Out project of the Media Design Master, HEAD–Genève, from October 2022 to January 2023.
 
-# All The Projects
+## Pitches
+We will be exploring constantly writing and re-writing pitches. There is a [pitches](pitches) folder for all the pitches. 
+
+## All The Projects
 There are several students exploring this subject :
 
 - [Mariia Gulkova](https://github.com/MariiaGulkova/head-md-time-in-time-out)
