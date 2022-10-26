@@ -10,7 +10,7 @@ There are several students exploring this subject :
 - [Elie Hofer](https://github.com/EAH22/head-md-time-in-time-out)
 - [Margot Herbelin](https://github.com/herbeline/head-md-time-in-time-out)
 - [Faustine Perillaud](https://github.com/fromageboum/head-md-time-in-time-out)
-- [Narges ...](https://github.com/nargeshmrad/head-md-time-in-time-out)
+- [Narges Hamidi Madani](https://github.com/nargeshmrad/head-md-time-in-time-out)
 - [Michelle Ponti](https://github.com/michelle-po/head-md-time-in-time-out)
 - [Faroud Boget](https://github.com/marinefb/head-md-time-in-time-out)
 - [Louka Najjar](https://github.com/fly04/head-md-time-in-time-out)
@@ -18,3 +18,4 @@ There are several students exploring this subject :
 - [Flore Garcia](https://github.com/flokkyn/head-md-time-in-time-out)
 - [Camillo Palacio](https://github.com/jose-camilo-palacio-constain/head-md-time-in-time-out)
 - [Hanieh Rashid](https://github.com/haniehrashid/head-md-time-in-time-out)
+- [Tibor Udvari](https://github.com/TiborUdvari/head-md-time-in-time-out)
